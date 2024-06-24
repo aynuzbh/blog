@@ -245,9 +245,9 @@
     
     <category term="Python" scheme="https://www.cclmsy.cc/tags/Python/"/>
     
-    <category term="机器人" scheme="https://www.cclmsy.cc/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
-    
     <category term="教程" scheme="https://www.cclmsy.cc/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="机器人" scheme="https://www.cclmsy.cc/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     
   </entry>
   
@@ -318,8 +318,8 @@
   
   <entry>
     <title>动态规划-背包DP</title>
-    <link href="https://www.cclmsy.cc/posts/Infinity.html"/>
-    <id>https://www.cclmsy.cc/posts/Infinity.html</id>
+    <link href="https://www.cclmsy.cc/posts/Model_DP_Bag.html"/>
+    <id>https://www.cclmsy.cc/posts/Model_DP_Bag.html</id>
     <published>2023-09-22T12:00:00.000Z</published>
     <updated>2023-10-22T06:50:00.000Z</updated>
     
@@ -343,8 +343,8 @@
   
   <entry>
     <title>动态规划-其他</title>
-    <link href="https://www.cclmsy.cc/posts/4014d4be.html"/>
-    <id>https://www.cclmsy.cc/posts/4014d4be.html</id>
+    <link href="https://www.cclmsy.cc/posts/Models_DP_Others.html"/>
+    <id>https://www.cclmsy.cc/posts/Models_DP_Others.html</id>
     <published>2023-09-22T12:00:00.000Z</published>
     <updated>2023-10-22T06:50:00.000Z</updated>
     
@@ -366,8 +366,8 @@
   
   <entry>
     <title>题解|2023暑期牛客多校10</title>
-    <link href="https://www.cclmsy.cc/posts/f6ff419e.html"/>
-    <id>https://www.cclmsy.cc/posts/f6ff419e.html</id>
+    <link href="https://www.cclmsy.cc/posts/ACM_2023Summer_NCD10.html"/>
+    <id>https://www.cclmsy.cc/posts/ACM_2023Summer_NCD10.html</id>
     <published>2023-08-17T16:00:00.000Z</published>
     <updated>2023-11-08T16:00:00.000Z</updated>
     
@@ -387,8 +387,8 @@
   
   <entry>
     <title>题解|2023暑期杭电多校10</title>
-    <link href="https://www.cclmsy.cc/posts/8239c814.html"/>
-    <id>https://www.cclmsy.cc/posts/8239c814.html</id>
+    <link href="https://www.cclmsy.cc/posts/ACM_2023Summer_HDU10.html"/>
+    <id>https://www.cclmsy.cc/posts/ACM_2023Summer_HDU10.html</id>
     <published>2023-08-16T16:00:00.000Z</published>
     <updated>2023-11-08T16:00:00.000Z</updated>
     
@@ -408,8 +408,8 @@
   
   <entry>
     <title>题解|2023暑期杭电多校09</title>
-    <link href="https://www.cclmsy.cc/posts/e80ac002.html"/>
-    <id>https://www.cclmsy.cc/posts/e80ac002.html</id>
+    <link href="https://www.cclmsy.cc/posts/ACM_2023Summer_HDU09.html"/>
+    <id>https://www.cclmsy.cc/posts/ACM_2023Summer_HDU09.html</id>
     <published>2023-08-14T16:00:00.000Z</published>
     <updated>2023-11-08T16:00:00.000Z</updated>
     
@@ -429,8 +429,8 @@
   
   <entry>
     <title>题解|2023暑期牛客多校09</title>
-    <link href="https://www.cclmsy.cc/posts/3f9284b7.html"/>
-    <id>https://www.cclmsy.cc/posts/3f9284b7.html</id>
+    <link href="https://www.cclmsy.cc/posts/ACM_2023Summer_NCD09.html"/>
+    <id>https://www.cclmsy.cc/posts/ACM_2023Summer_NCD09.html</id>
     <published>2023-08-13T16:00:00.000Z</published>
     <updated>2023-11-08T16:00:00.000Z</updated>
     
